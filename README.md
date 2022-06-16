@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ricky H. Ardiansyah</h1>
 <h3 align="center">A passionate frontend developer and UI/UX designer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ricky-ard" alt="ricky-ard" /></a> </p>
-
 - 🌱 I’m currently learning **reactJS and NextJS**
 
 - 💬 Ask me about **react**
